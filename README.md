@@ -14,7 +14,6 @@ Sou um(a) desenvolvedor(a) [**Sua Especialidade, ex: Full-Stack, Back-end, etc.*
 
 - 🔭 Atualmente estou trabalhando em [**Nome do seu projeto pessoal ou da empresa**].
 - 🌱 Estou sempre aprendendo mais sobre [**O que você está estudando, ex: Arquitetura de Microsserviços, Testes automatizados, etc.**].
-- 📫 Como me encontrar: richardsevero184@gmail.com ou pelo LinkedIn!
 
 ---
 
@@ -95,6 +94,6 @@ Aqui estão as tecnologias com as quais eu mais trabalho:
 ### 📫 Conecte-se comigo
 
 <p align="left">
-<a href="https://linkedin.com/in/SEU-LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="SEU-NOME" height="30" width="40" /></a>
-<a href="mailto:seu.email@provedor.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="SEU-NOME" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/richardsevero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="SEU-NOME" height="30" width="40" /></a>
+<a href="richardsevero184@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="SEU-NOME" height="30" width="40" /></a>
 </p>
