@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/RichardSevero">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=4000&color=58A6FF&center=true&vCenter=true&width=435&lines=Desenvolvedor(a)+Full-Stack;Sempre+aprendendo+algo+novo;Apaixonado(a)+por+tecnologia" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=4000&color=58A6FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full-Stack;Sempre+aprendendo+algo+novo;Apaixonado(a)+por+tecnologia" alt="Typing SVG" />
   </a>
 </p>
 
@@ -14,9 +14,7 @@ Sou um(a) desenvolvedor(a) [**Sua Especialidade, ex: Full-Stack, Back-end, etc.*
 
 - 🔭 Atualmente estou trabalhando em [**Nome do seu projeto pessoal ou da empresa**].
 - 🌱 Estou sempre aprendendo mais sobre [**O que você está estudando, ex: Arquitetura de Microsserviços, Testes automatizados, etc.**].
-- 💬 Me chame para falar sobre [**Seus interesses, ex: Java, boas práticas de código, Fórmula 1, etc.**].
-- 📫 Como me encontrar: [**seu.email@provedor.com**] ou pelo LinkedIn!
-- ⚡ Curiosidade: [**Algo divertido sobre você, ex: Sou um ótimo jogador de xadrez!**]
+- 📫 Como me encontrar: richardsevero184@gmail.com ou pelo LinkedIn!
 
 ---
 
@@ -59,8 +57,8 @@ Aqui estão as tecnologias com as quais eu mais trabalho:
 ### 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RichardSevero&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardSevero&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 
 ---
