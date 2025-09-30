@@ -1,4 +1,4 @@
-# Olá, eu sou [Seu Nome]! 👋
+# Olá, eu sou o Richard! 👋
 
 <p align="center">
   <a href="https://github.com/RichardSevero">
