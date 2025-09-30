@@ -10,7 +10,7 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou um(a) desenvolvedor(a) [**Sua Especialidade, ex: Full-Stack, Back-end, etc.**] apaixonado(a) por construir soluções robustas e inovadoras. Tenho experiência sólida no desenvolvimento de aplicações web, utilizando tecnologias modernas para criar produtos eficientes e escaláveis.
+Sou um(a) desenvolvedor Full-Stack apaixonado(a) por construir soluções robustas e inovadoras. Tenho experiência sólida no desenvolvimento de aplicações web, utilizando tecnologias modernas para criar produtos eficientes e escaláveis.
 
 - 🔭 Atualmente estou trabalhando em projetos pessoais e em projetos universitários com foco em me desenvolver e dominar diversas tecnologias.
 - 🌱 Estou sempre aprendendo mais sobre tecnologias que fazem um bom desenvolvedor full-stack.
