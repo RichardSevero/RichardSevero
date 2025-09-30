@@ -1,4 +1,4 @@
-# Olá, eu sou o Richard! 👋
+# Bem vindo, eu sou o Richard! 👋
 
 <p align="center">
   <a href="https://github.com/RichardSevero">
@@ -12,8 +12,8 @@
 
 Sou um(a) desenvolvedor(a) [**Sua Especialidade, ex: Full-Stack, Back-end, etc.**] apaixonado(a) por construir soluções robustas e inovadoras. Tenho experiência sólida no desenvolvimento de aplicações web, utilizando tecnologias modernas para criar produtos eficientes e escaláveis.
 
-- 🔭 Atualmente estou trabalhando em [**Nome do seu projeto pessoal ou da empresa**].
-- 🌱 Estou sempre aprendendo mais sobre [**O que você está estudando, ex: Arquitetura de Microsserviços, Testes automatizados, etc.**].
+- 🔭 Atualmente estou trabalhando em projetos pessoais e em projetos universitários com foco em me desenvolver e dominar diversas tecnologias.
+- 🌱 Estou sempre aprendendo mais sobre tecnologias que fazem um bom desenvolvedor full-stack.
 
 ---
 
