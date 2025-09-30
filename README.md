@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/RichardSevero">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=4000&color=58A6FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full-Stack;Sempre+aprendendo+algo+novo;Apaixonado(a)+por+tecnologia" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=4000&color=58A6FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full-Stack;Sempre+aprendendo+algo+novo;Apaixonado+por+tecnologia" alt="Typing SVG" />
   </a>
 </p>
 
