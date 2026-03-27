@@ -33,9 +33,6 @@ Aqui estão as tecnologias com as quais eu mais trabalho:
     <a href="https://www.w3schools.com/css/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
     </a>
-    <a href="https://www.json.org/json-en.html" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/json/json-original.svg" alt="json" width="40" height="40"/>
-    </a>
     <a href="https://www.cprogramming.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
     </a>
