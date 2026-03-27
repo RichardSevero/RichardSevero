@@ -1,20 +1,10 @@
 # Bem vindo, eu sou o Richard! 👋
 
-<p align="center">
-  <a href="https://github.com/RichardSevero">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=4000&color=58A6FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full-Stack;Sempre+aprendendo+algo+novo;Apaixonado+por+tecnologia" alt="Typing SVG" />
-  </a>
-</p>
-
----
-
 ### 👨‍💻 Sobre Mim
 
 Sou um(a) desenvolvedor Full-Stack apaixonado(a) por construir soluções robustas e inovadoras. Tenho experiência sólida no desenvolvimento de aplicações web, utilizando tecnologias modernas para criar produtos eficientes e escaláveis.
 
-- 🔭 Atualmente estou trabalhando em projetos pessoais e em projetos universitários com foco em me desenvolver e dominar diversas tecnologias.
-- 🌱 Estou sempre aprendendo mais sobre tecnologias que fazem um bom desenvolvedor full-stack.
-
+-  Atualmente estou trabalhando em projetos pessoais e em projetos universitários com foco em me desenvolver e dominar diversas tecnologias.
 ---
 
 ### 🛠️ Minhas Ferramentas e Tecnologias
@@ -59,35 +49,6 @@ Aqui estão as tecnologias com as quais eu mais trabalho:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RichardSevero&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardSevero&layout=compact&langs_count=7&theme=dracula"/>
 </p>
-
----
-
-### 📌 Meus Projetos em Destaque
-
-<table border="1">
-  <tr>
-    <td width="50%">
-      <h3 align="center">Nome do Projeto 1</h3>
-      <p align="center">
-        Uma breve descrição do que este projeto faz e qual problema ele resolve.
-        <br/><br/>
-        <a href="LINK-PARA-SEU-PROJETO-1">🔗 Ver Repositório</a>
-        <br/>
-        <a href="LINK-PARA-O-DEPLOY-1">🚀 Ver Online</a>
-      </p>
-    </td>
-    <td width="50%">
-        <h3 align="center">Nome do Projeto 2</h3>
-        <p align="center">
-            Uma breve descrição do que este projeto faz e qual problema ele resolve.
-            <br/><br/>
-            <a href="LINK-PARA-SEU-PROJETO-2">🔗 Ver Repositório</a>
-            <br/>
-            <a href="LINK-PARA-O-DEPLOY-2">🚀 Ver Online</a>
-        </p>
-    </td>
-  </tr>
-</table>
 
 ---
 
