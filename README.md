@@ -11,7 +11,7 @@ Sou um(a) desenvolvedor Full-Stack apaixonado(a) por construir soluções robust
 
 Aqui estão as tecnologias com as quais eu mais trabalho:
 
-<p align="left">
+<p align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
     </a>
