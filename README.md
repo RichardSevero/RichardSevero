@@ -69,12 +69,23 @@ https://github.com/RichardSevero/vacina-conectada-publico
 
 ---
 
-## 📊 Estatísticas
+## 🚀 Projetos em destaque
 
-![GitHub Streak](https://streak-stats.demolab.com?user=RichardSevero&theme=tokyonight)
+- Vacina Conectada
+- Sistema de Biomarcadores para Atletas
+- Portfólio 3D para Arquitetura
 
-<img height="180em" src="https://streak-stats.demolab.com?user=RichardSevero&theme=tokyonight" />
+## 🛠️ Stack Principal
 
+Java • Spring Boot • React • MySQL • Docker • MongoDB
+
+## 📚 Atualmente estudando
+
+- Arquitetura de Software
+- Testes de Carga (k6)
+- Blockchain aplicado à Saúde
+- Computação em Nuvem
+  
 ---
 
 ## 📫 Contato
