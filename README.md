@@ -71,9 +71,9 @@ https://github.com/RichardSevero/vacina-conectada-publico
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RichardSevero&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=RichardSevero&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RichardSevero&layout=compact&theme=tokyonight)
+<img height="180em" src="https://streak-stats.demolab.com?user=RichardSevero&theme=tokyonight" />
 
 ---
 
