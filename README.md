@@ -75,16 +75,12 @@ https://github.com/RichardSevero/vacina-conectada-publico
 - Sistema de Biomarcadores para Atletas
 - Portfólio 3D para Arquitetura
 
-## 🛠️ Stack Principal
-
-Java • Spring Boot • React • MySQL • Docker • MongoDB
-
 ## 📚 Atualmente estudando
 
 - Arquitetura de Software
 - Testes de Carga (k6)
 - Blockchain aplicado à Saúde
-- Computação em Nuvem
+- Estudando para tirar a certificação AI Praticioner e Cloud Praticioner da AWS
   
 ---
 
