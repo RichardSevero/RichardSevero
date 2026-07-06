@@ -69,7 +69,7 @@ https://github.com/RichardSevero/vacina-conectada-publico
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Projetos
 
 - Vacina Conectada
 - Sistema de Biomarcadores para Atletas
