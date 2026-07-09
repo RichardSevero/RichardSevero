@@ -11,7 +11,7 @@ Atualmente trabalho principalmente com:
 - React
 - JavaScript
 - MySQL
-- MongoDB
+- PostgreSQL
 - Docker
 - Node.js
 - Git & GitHub
