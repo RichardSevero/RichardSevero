@@ -20,6 +20,10 @@ Atualmente trabalho principalmente com:
 
 ---
 
+🌐 Confira meu portfólio:  
+https://richardsevero.github.io/Portfolio/?lang=pt
+---
+
 ## 💼 Experiência atual
 
 ### Desenvolvedor Júnior — Automação e RPA
