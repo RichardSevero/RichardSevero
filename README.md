@@ -78,9 +78,9 @@ https://github.com/RichardSevero/vacina-conectada-publico
 ## 📚 Atualmente estudando
 
 - Arquitetura de Software
-- Testes de Carga
-- Blockchain aplicado à Saúde
-- Estudando para tirar a certificação AI Praticioner e Cloud Praticioner da AWS
+- Grafana
+- Blockchain
+- Conceitos necessário para a Cloud Praticioner da AWS
   
 ---
 
