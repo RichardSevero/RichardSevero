@@ -69,12 +69,6 @@ https://github.com/RichardSevero/vacina-conectada-publico
 
 ---
 
-## 🚀 Projetos
-
-- Vacina Conectada
-- Sistema de Biomarcadores para Atletas
-- Portfólio 3D para Arquitetura
-
 ## 📚 Atualmente estudando
 
 - Arquitetura de Software
