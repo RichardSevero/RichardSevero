@@ -50,6 +50,11 @@ Certificação da AWS voltada aos fundamentos de **Inteligência Artificial, Mac
 
 ![AWS Certified AI Practitioner](https://img.shields.io/badge/AWS-Certified_AI_Practitioner-FF9900?style=for-the-badge\&logo=amazonwebservices\&logoColor=white)
 
+### AWS Certified Cloud Practitioner
+
+Certificação da AWS voltada aos fundamentos de **Cloud, Segurança na nuvem, serviços e demais tópicos relacionados a Cloud na AWS**.
+
+![AWS Certified Cloud Practitioner]
 ---
 
 ## 🛠️ Tecnologias
